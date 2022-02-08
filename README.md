@@ -8,6 +8,7 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 `https://github.com/OzerVeysel/kodluyoruzilkrepo.git
 `
+>https://github.com/OzerVeysel/kodluyoruzilkrepo.git
 
 
 
